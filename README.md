@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amol Patil</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">"A passionate AI/ML enthusiast and Python developer from India."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amolpatil33coder&label=Profile%20views&color=0e75b6&style=flat" alt="amolpatil33coder" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amolpatil33coder" alt="amolpatil33coder" /></a> </p>
 
-- 🌱 I’m currently learning **React,angular**
+- 🌱 I’m currently learning **AI,ML**
 
 - 📫 How to reach me **amolpatil5849@gmail.com**
 

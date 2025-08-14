@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNThjZmZmNzE3ZjU1NzgzODZkY2QxN2U0NjRmODAyYjY2OGQyYjgxYyZjdD1n/3oriO0OEd9QIDdllqo/giphy.gif" alt="Coding Gif" width="500"/>
+  <img src="assets/funny-programming.gif" alt="Funny programming GIF" width="600"/>
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Amol Patil</h1>
 <h3 align="center">"A passionate AI/ML enthusiast and Python developer from India."</h3>

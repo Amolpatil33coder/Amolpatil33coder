@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" alt="Funny coding GIF" width="500"/>
+  <img src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="Programming GIF" width="600"/>
 </p>
+
 <h1 align="center">Hi 👋, I'm Amol Patil</h1>
 <h3 align="center">A passionate frontend developer</h3>
 

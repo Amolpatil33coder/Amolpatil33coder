@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/programming.gif" alt="Funny programming GIF" width="600"/>
+  <img src="Amolpatil33coder/programming.gif" alt="Funny programming GIF" width="600"/>
 </p>
 
 

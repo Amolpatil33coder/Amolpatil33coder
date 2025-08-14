@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" alt="Funny coding GIF" width="600"/>
+  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" alt="Funny coding GIF" width="500"/>
 </p>
 <h1 align="center">Hi 👋, I'm Amol Patil</h1>
 <h3 align="center">A passionate frontend developer</h3>
